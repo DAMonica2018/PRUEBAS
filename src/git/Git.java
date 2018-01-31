@@ -16,6 +16,7 @@ public class Git {
         // TODO code application logic here
         Calculadora c=new Calculadora(4,2);
         System.out.println(c.suma()); 
+        System.out.println(c.resta()); 
         
     }
     
